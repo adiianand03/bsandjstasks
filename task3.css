@@ -1,0 +1,21 @@
+#l1{
+    padding-right: 800px;
+    font-weight: 600;
+    margin-top: 9px;
+}
+#l2,#l3{
+    /* margin-left: 50%; */
+ /* margin-right: 50%; */
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+#l5{
+    padding-top: 50px;
+}
+ul{
+    height: 60px;
+    margin-top: 3px;
+}
+#l3{
+    background-color:gainsboro;
+}
